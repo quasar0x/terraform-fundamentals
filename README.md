@@ -35,10 +35,6 @@ Deploys an EC2 instance and bootstraps it with:
 * File provisioner to copy a local `app.py` script
 * Remote-exec provisioner to install dependencies and start a Flask app
 
-### `terraform-vault/`
-
-*Empty placeholder* for future work related to secrets management (e.g., HashiCorp Vault integration).
-
 ### `terraform-workspaces/`
 
 Demonstrates workspace-based environment separation:
